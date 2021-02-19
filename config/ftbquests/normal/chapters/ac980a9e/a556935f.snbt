@@ -1,0 +1,19 @@
+{
+	x: -3.5d,
+	y: -4.5d,
+	dependencies: [
+		"586a53be"
+	],
+	tasks: [{
+		uid: "75e29354",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}]
+	}],
+	rewards: [{
+		uid: "7e11fbc5",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,10 @@
+{
+	x: 2.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "963ec4b5",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 100L
+	}]
+}

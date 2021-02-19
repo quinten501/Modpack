@@ -1,0 +1,47 @@
+{
+	x: -27.0d,
+	y: -9.0d,
+	dependencies: [
+		"f4b378d4"
+	],
+	tasks: [{
+		uid: "b65e3a31",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:cooking_table"
+		}]
+	},
+	{
+		uid: "1f7e4372",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:oven"
+		}]
+	},
+	{
+		uid: "cbb8012d",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:fridge"
+		}]
+	},
+	{
+		uid: "e05129a5",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:sink"
+		}]
+	},
+	{
+		uid: "ace9d606",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:counter"
+		}]
+	}],
+	rewards: [{
+		uid: "6684728f",
+		type: "loot",
+		table: 0
+	}]
+}

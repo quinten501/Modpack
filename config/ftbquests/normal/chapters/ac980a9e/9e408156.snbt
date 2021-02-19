@@ -1,0 +1,26 @@
+{
+	x: -11.0d,
+	y: -5.5d,
+	dependencies: [
+		"e0177558"
+	],
+	hide: true,
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "a5b0512e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:pestleandmortar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ad069bca",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,150 @@
+{
+	title: "Fishing Pro",
+	x: -29.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "6d89e2fc",
+		type: "item",
+		items: [{
+			item: "harvestcraft:anchovyrawitem"
+		}]
+	},
+	{
+		uid: "340faeab",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bassrawitem"
+		}]
+	},
+	{
+		uid: "270a61e1",
+		type: "item",
+		items: [{
+			item: "harvestcraft:carprawitem"
+		}]
+	},
+	{
+		uid: "c368508c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:catfishrawitem"
+		}]
+	},
+	{
+		uid: "971113a6",
+		type: "item",
+		items: [{
+			item: "harvestcraft:charrrawitem"
+		}]
+	},
+	{
+		uid: "5b461dc9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:grouperrawitem"
+		}]
+	},
+	{
+		uid: "e0e2a17d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:herringrawitem"
+		}]
+	},
+	{
+		uid: "d77d208b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:jellyfishrawitem"
+		}]
+	},
+	{
+		uid: "8a54dbae",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mudfishrawitem"
+		}]
+	},
+	{
+		uid: "960ac21b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:octopusrawitem"
+		}]
+	},
+	{
+		uid: "dd5ae85d",
+		type: "item",
+		items: [{
+			item: "harvestcraft:perchrawitem"
+		}]
+	},
+	{
+		uid: "eb5b42eb",
+		type: "item",
+		items: [{
+			item: "harvestcraft:snapperrawitem"
+		}]
+	},
+	{
+		uid: "68d45eee",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tilapiarawitem"
+		}]
+	},
+	{
+		uid: "da443258",
+		type: "item",
+		items: [{
+			item: "harvestcraft:troutrawitem"
+		}]
+	},
+	{
+		uid: "9b6d14d2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tunarawitem"
+		}]
+	},
+	{
+		uid: "6e192cf2",
+		type: "item",
+		items: [{
+			item: "harvestcraft:greenheartfishitem"
+		}]
+	},
+	{
+		uid: "57a46efd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:sardinerawitem"
+		}]
+	},
+	{
+		uid: "8e28b950",
+		type: "item",
+		items: [{
+			item: "harvestcraft:eelrawitem"
+		}]
+	},
+	{
+		uid: "3498636b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:scalloprawitem"
+		}]
+	},
+	{
+		uid: "46ff2ebe",
+		type: "item",
+		items: [{
+			item: "harvestcraft:shrimprawitem"
+		}]
+	}],
+	rewards: [{
+		uid: "7831ae67",
+		type: "random",
+		table: 0
+	}]
+}

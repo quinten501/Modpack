@@ -1,0 +1,41 @@
+{
+	icon: "buildcraftfactory:distiller",
+	x: -2.0d,
+	y: 0.0d,
+	shape: "diamond",
+	can_repeat: true,
+	dependencies: [
+		"d451eae3"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "0d1ad60b",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:distiller"
+		}]
+	},
+	{
+		uid: "1e51f158",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone_torch"
+		}],
+		count: 2L
+	},
+	{
+		uid: "4df17a10",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:tank"
+		}],
+		count: 3L
+	},
+	{
+		uid: "c9ef443f",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 26"
+		}]
+	}]
+}

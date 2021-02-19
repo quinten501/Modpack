@@ -1,0 +1,15 @@
+{
+	icon: "astralsorcery:blockattunementrelay",
+	x: 0.5d,
+	y: -2.5d,
+	dependencies: [
+		"2dbc41d4"
+	],
+	tasks: [{
+		uid: "34a8ef81",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockattunementrelay"
+		}]
+	}]
+}

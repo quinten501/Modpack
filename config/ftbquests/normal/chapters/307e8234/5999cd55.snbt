@@ -1,0 +1,15 @@
+{
+	x: 8.5d,
+	y: 0.0d,
+	dependencies: [
+		"aa2300c9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "b15a52c9",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_core"
+		}]
+	}]
+}

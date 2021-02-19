@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: -5.5d,
+	shape: "octagon",
+	text: [
+		"The Cave Illuminator when placed down will slowly light up caves (similar to Illuminating Powder) below the block",
+		"(64 Block Range)"
+	],
+	optional: true,
+	tasks: [{
+		uid: "5236d8dc",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockworldilluminator"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Epic Gamer Moment!",
+	x: -26.5d,
+	y: -14.5d,
+	tasks: [{
+		uid: "15a49551",
+		type: "item",
+		items: [{
+			item: "harvestcraft:energydrinkitem"
+		}],
+		count: 64L
+	},
+	{
+		uid: "31ab3499",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cheezepuffsitem"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "240dec61",
+		type: "random",
+		table: 0
+	}]
+}

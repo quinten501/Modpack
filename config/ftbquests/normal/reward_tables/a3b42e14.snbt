@@ -1,0 +1,65 @@
+{
+	title: "Items",
+	icon: "minecraft:chest",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			id: "minecraft:fish",
+			tag: {
+				display: {
+					Name: "Nemo"
+				}
+			},
+			Damage: 2s
+		}
+	},
+	{
+		item: "tp:cobblegen_block",
+		weight: 4
+	},
+	{
+		type: "toast"
+	},
+	{
+		item: "minecraft:hopper",
+		count: 4
+	},
+	{
+		item: "yabba:item_barrel"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "trumpetskeleton:trumpet"
+		}
+	},
+	{
+		item: "botania:manaresource"
+	},
+	{
+		item: "tconstruct:wooden_hopper",
+		count: 4
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:recordgaia1"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:recordgaia2"
+		}
+	},
+	{
+		item: "thermalfoundation:material 1 22",
+		count: 16
+	}]
+}

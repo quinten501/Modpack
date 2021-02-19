@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	dependencies: [
+		"a0dc64df"
+	],
+	tasks: [{
+		uid: "a76f5180",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_core"
+		}]
+	}]
+}

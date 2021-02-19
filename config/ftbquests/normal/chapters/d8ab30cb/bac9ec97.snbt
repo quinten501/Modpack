@@ -1,0 +1,10 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "71d9cf75",
+		type: "stat",
+		stat: "stat.playOneMinute",
+		value: 30000
+	}]
+}

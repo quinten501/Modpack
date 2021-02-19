@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: -6.0d,
+	dependencies: [
+		"aa2300c9"
+	],
+	tasks: [{
+		uid: "9ead4e2e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:generator"
+		}]
+	}]
+}

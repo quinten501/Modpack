@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	optional: true,
+	tasks: [{
+		uid: "792e4fd1",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crystal_binder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

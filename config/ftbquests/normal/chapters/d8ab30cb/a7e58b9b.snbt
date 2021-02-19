@@ -1,0 +1,22 @@
+{
+	title: "Why?",
+	x: 2.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "a0833934",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:lawsword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fcd6648b",
+		type: "item",
+		item: "minecraft:dirt"
+	}]
+}

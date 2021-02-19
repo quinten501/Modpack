@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	shape: "diamond",
+	dependencies: [
+		"ad6a2073"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "4e65387f",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:engine 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	icon: "minecraft:grass",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		"YA YEET"
+	],
+	tasks: [{
+		uid: "6a170c4c",
+		type: "dimension",
+		dim: 0
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -15.5d,
+	y: -3.0d,
+	shape: "square",
+	hide_dependency_lines: true,
+	dependencies: [
+		"e0177558"
+	],
+	hide: true,
+	tasks: [{
+		uid: "1aeb7b94",
+		type: "item",
+		items: [{
+			item: "botania:petal 1 5"
+		}]
+	}],
+	rewards: [{
+		uid: "f41964c2",
+		type: "random",
+		table: 0
+	}]
+}

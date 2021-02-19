@@ -1,0 +1,7 @@
+{
+	title: "BuildCraft",
+	icon: "buildcraftbuilders:quarry",
+	always_invisible: false,
+	group: 1687612916,
+	default_quest_shape: ""
+}

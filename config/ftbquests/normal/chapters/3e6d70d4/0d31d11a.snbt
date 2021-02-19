@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 5.0d,
+	dependencies: [
+		"1de7b920"
+	],
+	tasks: [{
+		uid: "2e431e1f",
+		type: "item",
+		items: [{
+			item: "enderio:block_aversion_obelisk"
+		}]
+	}]
+}

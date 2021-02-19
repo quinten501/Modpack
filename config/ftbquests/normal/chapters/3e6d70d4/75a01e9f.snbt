@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	dependencies: [
+		"25a76b5b"
+	],
+	tasks: [{
+		uid: "6a99d22e",
+		type: "item",
+		items: [{
+			item: "enderio:block_powered_spawner"
+		}]
+	}]
+}

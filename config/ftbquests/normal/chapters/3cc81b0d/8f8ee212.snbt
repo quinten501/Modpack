@@ -1,0 +1,97 @@
+{
+	x: -0.5d,
+	y: -4.5d,
+	shape: "octagon",
+	optional: true,
+	tasks: [{
+		uid: "03eab648",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes"
+		}]
+	},
+	{
+		uid: "70cafd7f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 1"
+		}]
+	},
+	{
+		uid: "5b3c0b53",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 2"
+		}]
+	},
+	{
+		uid: "5b51c130",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 3"
+		}]
+	},
+	{
+		uid: "bf02cd7a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 4"
+		}]
+	},
+	{
+		uid: "2271d02b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 5"
+		}]
+	},
+	{
+		uid: "02ba8176",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 6"
+		}]
+	},
+	{
+		uid: "1d5857cd",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 7"
+		}]
+	},
+	{
+		uid: "4eec0469",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 8"
+		}]
+	},
+	{
+		uid: "49e9a2cb",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 9"
+		}]
+	},
+	{
+		uid: "b0254307",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 10"
+		}]
+	},
+	{
+		uid: "4cb215af",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 11"
+		}]
+	},
+	{
+		uid: "2477ca99",
+		type: "item",
+		items: [{
+			item: "thaumcraft:celestial_notes 1 12"
+		}]
+	}]
+}

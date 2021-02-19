@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: -4.5d,
+	shape: "octagon",
+	text: [
+		"This device will help you find higher concentrations of Starlight (useful if you are having problems with getting enough Starlight for crafting). ",
+		"With this in hand you walk around your world and find patches on the ground that are blue.",
+		"This needs to be done at night and you may not see these patches if you are flying around too high or too fast."
+	],
+	optional: true,
+	tasks: [{
+		uid: "e3fc86ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemskyresonator",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

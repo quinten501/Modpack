@@ -1,0 +1,75 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:blockaltar",
+		Damage: 3s
+	},
+	x: 10.5d,
+	y: 7.5d,
+	dependencies: [
+		"5b1d698c",
+		"4b1cb67f"
+	],
+	tasks: [{
+		uid: "18e218ab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1773c855",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 6"
+		}],
+		count: 4L
+	},
+	{
+		uid: "22764d48",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 1"
+		}],
+		count: 68L
+	},
+	{
+		uid: "a7e32f77",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble"
+		}],
+		count: 49L
+	},
+	{
+		uid: "8a6405aa",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble"
+		}],
+		count: 12L
+	},
+	{
+		uid: "4dbe3651",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 2"
+		}],
+		count: 8L
+	},
+	{
+		uid: "f4d38de7",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 4"
+		}],
+		count: 4L
+	}]
+}

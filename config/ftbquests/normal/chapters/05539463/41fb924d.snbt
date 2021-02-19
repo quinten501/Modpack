@@ -1,0 +1,18 @@
+{
+	icon: "minecraft:netherrack",
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"12234914"
+	],
+	tasks: [{
+		uid: "ecb668db",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "8612b0c5",
+		type: "random",
+		table: 0
+	}]
+}

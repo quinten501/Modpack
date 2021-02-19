@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"2cf4257b"
+	],
+	tasks: [{
+		uid: "376e81d7",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage 1 1"
+		}]
+	}]
+}

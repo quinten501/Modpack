@@ -1,0 +1,45 @@
+{
+	title: "Condiment Galore!",
+	x: -25.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "3f1b3b1b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mayoitem"
+		}]
+	},
+	{
+		uid: "f9eb4ccd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:ketchupitem"
+		}]
+	},
+	{
+		uid: "8dc6a95c",
+		type: "item",
+		items: [{
+			item: "harvestcraft:mustarditem"
+		}]
+	},
+	{
+		uid: "1b88f434",
+		type: "item",
+		items: [{
+			item: "harvestcraft:hotsauceitem"
+		}]
+	},
+	{
+		uid: "0e779b96",
+		type: "item",
+		items: [{
+			item: "harvestcraft:soysauceitem"
+		}]
+	}],
+	rewards: [{
+		uid: "200644b3",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: -1.5d,
+	dependencies: [
+		"6850b6a4"
+	],
+	tasks: [{
+		uid: "cc037719",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "refinedstorage:storage_disk"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: -0.5d,
+	dependencies: [
+		"22eb4696"
+	],
+	tasks: [{
+		uid: "7e653bd3",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_drive"
+		}]
+	}]
+}

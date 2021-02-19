@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: 4.0d,
+	dependencies: [
+		"ba040869"
+	],
+	tasks: [{
+		uid: "af2a48c7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_core"
+		}]
+	}]
+}

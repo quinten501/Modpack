@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	optional: true,
+	tasks: [{
+		uid: "0d06716e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:info_tablet"
+		}]
+	}]
+}

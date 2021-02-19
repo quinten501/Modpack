@@ -1,0 +1,60 @@
+{
+	icon: "buildcraftbuilders:quarry",
+	x: 1.0d,
+	y: -1.0d,
+	shape: "diamond",
+	dependencies: [
+		"ad6a2073"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "3b4dbc86",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}]
+	},
+	{
+		uid: "3a4081b6",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 26"
+		}],
+		count: 2L
+	},
+	{
+		uid: "96082a25",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:diamond_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ab43818d",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 25"
+		}],
+		count: 2L
+	},
+	{
+		uid: "2217cad5",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 24"
+		}],
+		count: 3L
+	},
+	{
+		uid: "b3ba97bb",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}]
+	}]
+}

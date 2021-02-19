@@ -1,0 +1,39 @@
+{
+	x: -28.5d,
+	y: -14.5d,
+	tasks: [{
+		uid: "aa4d8065",
+		type: "item",
+		items: [{
+			item: "harvestcraft:butteritem"
+		}]
+	},
+	{
+		uid: "8af8f09e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:peanutbutteritem"
+		}]
+	},
+	{
+		uid: "4eb73cf9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:almondbutteritem"
+		}]
+	},
+	{
+		uid: "80a4ca46",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cashewbutteritem"
+		}]
+	},
+	{
+		uid: "4b181d04",
+		type: "item",
+		items: [{
+			item: "harvestcraft:chestnutbutteritem"
+		}]
+	}]
+}

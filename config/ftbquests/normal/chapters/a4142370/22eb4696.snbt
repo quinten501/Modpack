@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	shape: "square",
+	dependencies: [
+		"654bfa20"
+	],
+	tasks: [{
+		uid: "821f7aa6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

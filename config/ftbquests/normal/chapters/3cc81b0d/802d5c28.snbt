@@ -1,0 +1,47 @@
+{
+	icon: "astralsorcery:blockritualpedestal",
+	x: 12.0d,
+	y: 2.0d,
+	shape: "pentagon",
+	dependencies: [
+		"bb290579"
+	],
+	tasks: [{
+		uid: "2e9401cf",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockritualpedestal"
+		}]
+	},
+	{
+		uid: "8dc0acba",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 3"
+		}],
+		count: 20L
+	},
+	{
+		uid: "e190e2db",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 1"
+		}],
+		count: 24L
+	},
+	{
+		uid: "1293d235",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 4"
+		}]
+	},
+	{
+		uid: "1f218a6e",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble"
+		}],
+		count: 12L
+	}]
+}

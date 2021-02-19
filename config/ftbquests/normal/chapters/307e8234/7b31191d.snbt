@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: -4.0d,
+	dependencies: [
+		"aa2300c9"
+	],
+	tasks: [{
+		uid: "972382d6",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_infuser"
+		}]
+	}]
+}

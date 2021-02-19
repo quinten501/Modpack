@@ -1,0 +1,19 @@
+{
+	icon: "minecraft:end_stone",
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"41fb924d",
+		"12234914"
+	],
+	tasks: [{
+		uid: "c055fb3c",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "9de3714f",
+		type: "random",
+		table: 0
+	}]
+}

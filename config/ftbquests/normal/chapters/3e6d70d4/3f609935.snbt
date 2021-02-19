@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		"Go to Bedrock en light it on fire"
+	],
+	tasks: [{
+		uid: "73dfd709",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 20"
+		}]
+	}]
+}

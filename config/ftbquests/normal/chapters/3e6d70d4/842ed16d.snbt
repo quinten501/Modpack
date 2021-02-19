@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -5.0d,
+	dependencies: [
+		"ae5593fd"
+	],
+	tasks: [{
+		uid: "31e78a7f",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_crafter"
+		}]
+	}]
+}

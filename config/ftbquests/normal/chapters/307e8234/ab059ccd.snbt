@@ -1,0 +1,14 @@
+{
+	title: "Getting Started",
+	x: 0.0d,
+	y: 0.0d,
+	hide: true,
+	tasks: [{
+		uid: "5cd6dd1a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust"
+		}],
+		count: 16L
+	}]
+}

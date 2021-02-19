@@ -1,0 +1,23 @@
+{
+	icon: "astralsorcery:itemcraftingcomponent 1 1",
+	x: 4.0d,
+	y: 6.0d,
+	dependencies: [
+		"32717188",
+		"38942d77"
+	],
+	tasks: [{
+		uid: "a5b10e0f",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemcraftingcomponent 1 1"
+		}]
+	},
+	{
+		uid: "6b30d354",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcustomore 1 1"
+		}]
+	}]
+}

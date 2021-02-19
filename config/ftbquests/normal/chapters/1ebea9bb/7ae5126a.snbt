@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "c4cefe58",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				]
+			},
+			Damage: 7s
+		}]
+	}]
+}

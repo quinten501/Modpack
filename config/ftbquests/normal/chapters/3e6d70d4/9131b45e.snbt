@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 3.0d,
+	dependencies: [
+		"79786a82"
+	],
+	tasks: [{
+		uid: "1c6f8ed6",
+		type: "item",
+		items: [{
+			item: "enderio:block_relocator_obelisk"
+		}]
+	}]
+}

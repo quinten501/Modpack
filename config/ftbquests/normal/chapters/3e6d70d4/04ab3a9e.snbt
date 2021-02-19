@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -4.0d,
+	dependencies: [
+		"3e028b4b"
+	],
+	tasks: [{
+		uid: "ebe2e623",
+		type: "item",
+		items: [{
+			item: "enderio:item_redstone_conduit"
+		}]
+	}]
+}

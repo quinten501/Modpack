@@ -1,0 +1,19 @@
+{
+	x: 8.5d,
+	y: -3.5d,
+	dependencies: [
+		"70ea7779"
+	],
+	tasks: [{
+		uid: "505fc473",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "rebornstorage:storagecellfluid",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

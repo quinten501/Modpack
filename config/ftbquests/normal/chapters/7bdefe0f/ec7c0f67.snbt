@@ -1,0 +1,59 @@
+{
+	title: "Top Tier Meals",
+	x: -27.5d,
+	y: -13.0d,
+	tasks: [{
+		uid: "ec07f26b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:southernstylebreakfastitem"
+		}]
+	},
+	{
+		uid: "1f517525",
+		type: "item",
+		items: [{
+			item: "harvestcraft:meatfeastpizzaitem"
+		}]
+	},
+	{
+		uid: "ff5da3d9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:thankfuldinneritem"
+		}]
+	},
+	{
+		uid: "8d24f450",
+		type: "item",
+		items: [{
+			item: "harvestcraft:koreandinneritem"
+		}]
+	},
+	{
+		uid: "ef916d27",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gourmetvenisonburgeritem"
+		}]
+	},
+	{
+		uid: "558d1d9a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:minerstewitem"
+		}]
+	},
+	{
+		uid: "9dd18592",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cornedbeefbreakfastitem"
+		}]
+	}],
+	rewards: [{
+		uid: "58ba2b32",
+		type: "random",
+		table: 0
+	}]
+}

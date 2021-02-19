@@ -1,0 +1,17 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	description: "Little tip: use chickens, it will make some things easier",
+	min_required_dependencies: 1,
+	dependencies: [
+		"ab059ccd",
+		"db87e56f"
+	],
+	tasks: [{
+		uid: "2f74f423",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ingot"
+		}]
+	}]
+}

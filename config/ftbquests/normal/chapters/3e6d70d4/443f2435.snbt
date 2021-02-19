@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: 6.0d,
+	dependencies: [
+		"0d31d11a"
+	],
+	tasks: [{
+		uid: "9505d203",
+		type: "item",
+		items: [{
+			item: "enderio:block_attractor_obelisk"
+		}]
+	}]
+}

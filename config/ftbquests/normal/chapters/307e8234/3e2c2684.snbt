@@ -1,0 +1,20 @@
+{
+	x: 14.5d,
+	y: -4.0d,
+	text: [
+		""
+	],
+	min_required_dependencies: 1,
+	dependencies: [
+		"525bdc8e",
+		"830c7bc9"
+	],
+	hide: true,
+	tasks: [{
+		uid: "daa5e02f",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_block"
+		}]
+	}]
+}

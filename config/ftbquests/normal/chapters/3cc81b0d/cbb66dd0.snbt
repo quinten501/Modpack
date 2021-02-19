@@ -1,0 +1,48 @@
+{
+	icon: "astralsorcery:blockcelestialgateway",
+	x: 11.0d,
+	y: -1.0d,
+	dependencies: [
+		"bb290579"
+	],
+	optional: true,
+	tasks: [{
+		uid: "3187c0cb",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockcelestialgateway"
+		}]
+	},
+	{
+		uid: "e6f6acab",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 3"
+		}],
+		count: 20L
+	},
+	{
+		uid: "2c761111",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockblackmarble"
+		}],
+		count: 25L
+	},
+	{
+		uid: "cad36afa",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 6"
+		}],
+		count: 4L
+	},
+	{
+		uid: "1a49d72b",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble 1 5"
+		}],
+		count: 4L
+	}]
+}

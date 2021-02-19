@@ -1,0 +1,42 @@
+{
+	x: -1.5d,
+	y: -5.5d,
+	shape: "octagon",
+	optional: true,
+	tasks: [{
+		uid: "8d8c7c9f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemarchitectwand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5923ef54",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemexchangewand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "16d8906f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemgrapplewand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

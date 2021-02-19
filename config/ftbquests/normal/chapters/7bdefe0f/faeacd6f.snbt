@@ -1,0 +1,19 @@
+{
+	x: -29.0d,
+	y: -10.5d,
+	dependencies: [
+		"f4b378d4"
+	],
+	tasks: [{
+		uid: "57d256a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cookingforblockheads:recipe_book",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

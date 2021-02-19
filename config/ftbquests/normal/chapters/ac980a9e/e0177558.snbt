@@ -1,0 +1,30 @@
+{
+	title: "Botania",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:lexicon",
+		tag: {}
+	},
+	x: -13.49149659863945d,
+	y: -5.494897959183675d,
+	shape: "diamond",
+	size: 2.0d,
+	tasks: [{
+		uid: "f5bd623b",
+		type: "checkmark",
+		title: "Start Quest"
+	}],
+	rewards: [{
+		uid: "a4178237",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {}
+		}
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	tasks: [{
+		uid: "02a50af2",
+		type: "checkmark",
+		title: "Starting Astral",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal"
+		}
+	}]
+}

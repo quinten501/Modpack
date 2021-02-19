@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: -4.5d,
+	shape: "octagon",
+	text: [
+		"As you look around the night sky with the Sextant you will notice large coloured stars (sometimes blue, sometimes green). These stars are locations of Astral Sorcery Shrines.",
+		"(SNEAK to move mouse)",
+		""
+	],
+	optional: true,
+	tasks: [{
+		uid: "df1867f0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemsextant",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

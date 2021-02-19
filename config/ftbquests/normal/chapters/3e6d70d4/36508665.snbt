@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -5.0d,
+	dependencies: [
+		"21c5ed59"
+	],
+	tasks: [{
+		uid: "085734d5",
+		type: "item",
+		items: [{
+			item: "enderio:block_enhanced_vat"
+		}]
+	}]
+}

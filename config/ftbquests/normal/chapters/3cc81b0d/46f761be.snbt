@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: -3.0d,
+	dependencies: [
+		"e8f668da"
+	],
+	tasks: [{
+		uid: "e941b9da",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockinfusedwood"
+		}],
+		count: 16L
+	}]
+}
