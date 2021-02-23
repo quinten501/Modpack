@@ -1,0 +1,31 @@
+{
+  "clientToken" : "",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "1fe50cb6c00d4bfcead6f44fdd083aa0" : {
+      "created" : "2021-02-19T12:55:14.029Z",
+      "javaArgs" : "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+	  "lastUsed" : "2021-02-19T12:55:31.702Z",
+      "lastVersionId" : "1.12.2-forge-14.23.5.2854",
+      "name" : "NoName",
+      "type" : "custom"
+    }
+  },
+  "settings" : {
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}
